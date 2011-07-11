@@ -5,5 +5,5 @@
     "version": "0.1",
     "fullName": "tabOrganizer",
     "id": "taborganizer@prospector.labs.mozilla",
-    "description": "a basic add-on"
+    "description": "An addon that automatically groups your tabs into Panorama."
 }
