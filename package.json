@@ -1,9 +1,9 @@
 {
     "name": "taborganizer",
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-    "author": "",
+    "author": "Mozilla Labs",
     "version": "0.1",
-    "fullName": "tabOrganizer",
+    "fullName": "tabFocus",
     "id": "taborganizer@prospector.labs.mozilla",
-    "description": "An addon that automatically groups your tabs into Panorama."
+    "description": "An addon that reduces tab clutter by extracting your current browsing session into a new Panorama group."
 }
