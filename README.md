@@ -1,10 +1,10 @@
-Firefox tabOrganizer
-====================
+Firefox TabFocus
+================
 
 What is it?
 -----------
 
-tabOrganizer is a one-click Firefox addon that takes a set of tabs and automatically splits them into multiple Panorama groups.
+TabFocus lets you extract a browsing session into a new Panorama group.
 
 How does it work?
 -----------------
