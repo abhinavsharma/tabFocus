@@ -1,0 +1,41 @@
+li, ul {
+margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+h1
+  {
+  font-family: Helvetica, Arial;
+  font-size: 12px;
+  color: black;
+  font-weight: bold;
+  padding-top: 10px;
+  margin-left: 10px;
+}
+
+.panel-wrap {
+  background-color: #D4DDE5;
+  margin: 15px 5px 5px 5px;
+  height: 95%;
+  text-color: black;
+}
+
+#content-list {
+  list-style: none;
+  padding-left: 15px;
+  font-size: 12px;
+  font-family: Helvetica, Arial, sans-serif;
+  text-decoration: none;
+}
+
+#content-list li {
+  padding: 2px 0 2px 0;
+}
+
+#content-list li a {
+  text-decoration: none;
+}
