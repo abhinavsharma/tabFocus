@@ -30,6 +30,8 @@ h1
   font-size: 12px;
   font-family: Helvetica, Arial, sans-serif;
   text-decoration: none;
+  height: 75%;
+  overflow: auto;
 }
 
 #content-list li {
@@ -38,4 +40,21 @@ h1
 
 #content-list li a {
   text-decoration: none;
+}
+
+#search-box {
+  margin: 7px 0px 5px 10px;
+  border-color: #A6AFB6;
+  border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) inset;
+    font-family: "Lucida Grande",Verdana,Sans-serif;
+    font-size: 12px;
+    width: 92%;
+ 
+}
+
+#new-snap {
+  margin: 10px 0px 5px 10px;
+  padding-top: 5px;
 }
